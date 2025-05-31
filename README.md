@@ -18,20 +18,17 @@
 
 ## 🚀 About Me
 
-- 🔥 **Unity Full Stack C# Master**: 5+ years developing & architecting high-performance games, simulations, and XR products with Unity3D.
+- 🔥 **Unity Full Stack**: 1+ years developing & architecting high-performance games, simulations.
 - 💻 **Web Full Stack Developer**: Building scalable, modern applications with:
   - **Frontend**: React, Next.js, TailwindCSS, TypeScript
-  - **Backend**: Node.js, Express, Prisma, RESTful APIs, GraphQL
-  - **Database**: MongoDB, MySQL, PostgreSQL
-- 🧠 **Always learning**: Passionate about new technologies, clean code, and best practices.
-- ✨ **Vision**: Delivering seamless interactive experiences & robust web solutions.
-
+  - **Backend**: Node.js, Express, Prisma, RESTful APIs
+  - **Database**: MongoDB, MySQL
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,csharp,react,nextjs,nodejs,express,prisma,typescript,js,tailwind,mongodb,mysql,postgres,html,css,graphql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=unity,dotnet,react,nextjs,nodejs,express,prisma,typescript,js,tailwind,mongodb,mysql,git,github,figma" />
 </p>
 
 ---
@@ -46,25 +43,11 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 Mastered Unity3D with large-scale cross-platform projects.
-- 🚀 Launched multiple SaaS/web products using modern full stack.
-- 👨‍💻 Open Source contributor & mentor.
-
----
-
 ## 🌎 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tvanle)
 - 🌐 [Portfolio Website](https://tvanle.dev)
-- 📫 Email: tvanle.dev@gmail.com
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tvanle/tvanle/main/footer.gif" alt="Footer" width="100%" />
-</p>
+- 📫 Email: tvanle204@gmail.com
 
 <details>
   <summary>✨ <b>More About Me</b></summary>
