@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/tvanle/tvanle/main/banner.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#6e57e0;">Tấn Văn Lê</span> 👋</h1>
-<h3 align="center">Unity Full Stack C# Master | Web Full Stack Developer</h3>
+<h1 align="center">Hi there, I'm <span style="color:#6e57e0;">tvan le</span> 👋</h1>
+<h3 align="center">Unity Full Stack</h3>
 
 <p align="center">
   <a href="https://github.com/tvanle"><img src="https://img.shields.io/github/followers/tvanle?label=Follow&style=social" alt="GitHub Followers"></a>
