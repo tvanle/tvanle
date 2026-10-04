@@ -19,3 +19,8 @@ Game developer at **THEONE** · Hà Nội, Việt Nam
 | [TemplateProjectUnity](https://github.com/tvanle/TemplateProjectUnity) | Unity project template built on my foundation/features modules |
 | [thuocthuy](https://github.com/tvanle/thuocthuy) | Online store: Next.js + Prisma, COD ordering, admin CRUD |
 | [vit-on-toan-9](https://github.com/tvanle/vit-on-toan-9) | Times-table learning game for kids ([play it](https://tvanle.github.io/vit-on-toan-9)) |
+
+## GitHub stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=tvanle&show_icons=true&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvanle&layout=compact&hide_border=true)
